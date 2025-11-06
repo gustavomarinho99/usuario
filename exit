@@ -1,0 +1,23 @@
+[33mcommit 32a4026fb5f431474677dd96883216d86e4f4a44[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/salva_usuario[m[33m)[m
+Author: Gustavo <gustavomarinho855@gmail.com>
+Date:   Mon Nov 3 17:34:34 2025 -0300
+
+    adicionando método que salva dados do usuário
+
+[33mcommit 36f9a0da3448eb51f51653baa137809202e14c3d[m[33m ([m[1;31morigin/feature/spring_security[m[33m, [m[1;32mfeature/spring_security[m[33m)[m
+Author: Gustavo <gustavomarinho855@gmail.com>
+Date:   Mon Nov 3 16:05:53 2025 -0300
+
+    adicionadas classes de security
+
+[33mcommit 8b94f19eb5553ed1a28ade796ce93afe5b01b38a[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: gustavomarinho99 <gustavomarinho855@gmail.com>
+Date:   Mon Nov 3 15:48:20 2025 -0300
+
+    Create gradle.yml
+
+[33mcommit b6da1fc86a80443310efe7105ab38b0b6f5115d3[m
+Author: Gustavo <gustavomarinho855@gmail.com>
+Date:   Mon Nov 3 15:44:24 2025 -0300
+
+    Commit inicial
